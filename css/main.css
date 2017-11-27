@@ -190,23 +190,18 @@ nav{
     height: auto;
 }
 .carousel-caption{
-	font-size: 12px;
     display:block;
     max-width: 100%;
     text-align: left;
 }
 .testimonials q {
-	display: inline-block;
-    color: #fff;
-    font-family: 'Cardo', sans-serif;
-	font-weight: 400;
-    font-style: italic;
-    font-size: 300%; 
+   display: inline-block;
+   font: italic 36px "Cardo", Georgia, "Times New Roman", serif;
 }
 .testimonials cite {
     color: #fff;
     display: block;
-    font-size: 80%;
+    font-size: 13px;
     font-style: normal;
     font-weight: 600;
     margin-top: 10%;
